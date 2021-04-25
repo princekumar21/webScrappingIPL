@@ -1,0 +1,1526 @@
+[
+    {
+        "Delhi Capitals": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Marcus Stoinis ",
+                        "Run": "0",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shikhar Dhawan ",
+                        "Run": "15",
+                        "Ball": "13",
+                        "4's": "3",
+                        "6's": "0",
+                        "StrikeRate": "115.38"
+                    },
+                    {
+                        "Player": "Ajinkya Rahane ",
+                        "Run": "2",
+                        "Ball": "4",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "50.00"
+                    },
+                    {
+                        "Player": "Shreyas Iyer (c)",
+                        "Run": "65",
+                        "Ball": "50",
+                        "4's": "6",
+                        "6's": "2",
+                        "StrikeRate": "130.00"
+                    },
+                    {
+                        "Player": "Rishabh Pant †",
+                        "Run": "56",
+                        "Ball": "38",
+                        "4's": "4",
+                        "6's": "2",
+                        "StrikeRate": "147.36"
+                    },
+                    {
+                        "Player": "Shimron Hetmyer ",
+                        "Run": "5",
+                        "Ball": "5",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    },
+                    {
+                        "Player": "Axar Patel ",
+                        "Run": "9",
+                        "Ball": "9",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    },
+                    {
+                        "Player": "Kagiso Rabada ",
+                        "Run": "0",
+                        "Ball": "0",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Trent Boult",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "3",
+                        "ECON": "7.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jasprit Bumrah",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "28",
+                        "Wicket": "0",
+                        "ECON": "7.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jayant Yadav",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "25",
+                        "Wicket": "1",
+                        "ECON": "6.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Nathan Coulter-Nile",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "2",
+                        "ECON": "7.25",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Krunal Pandya",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "0",
+                        "ECON": "10.00",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kieron Pollard",
+                        "Over": "1",
+                        "Maiden": "0",
+                        "Run": "13",
+                        "Wicket": "0",
+                        "ECON": "13.00",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Mumbai Indians": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Rohit Sharma (c)",
+                        "Run": "68",
+                        "Ball": "51",
+                        "4's": "5",
+                        "6's": "4",
+                        "StrikeRate": "133.33"
+                    },
+                    {
+                        "Player": "Quinton de Kock †",
+                        "Run": "20",
+                        "Ball": "12",
+                        "4's": "3",
+                        "6's": "1",
+                        "StrikeRate": "166.66"
+                    },
+                    {
+                        "Player": "Suryakumar Yadav ",
+                        "Run": "19",
+                        "Ball": "20",
+                        "4's": "1",
+                        "6's": "1",
+                        "StrikeRate": "95.00"
+                    },
+                    {
+                        "Player": "Ishan Kishan ",
+                        "Run": "33",
+                        "Ball": "19",
+                        "4's": "3",
+                        "6's": "1",
+                        "StrikeRate": "173.68"
+                    },
+                    {
+                        "Player": "Kieron Pollard ",
+                        "Run": "9",
+                        "Ball": "4",
+                        "4's": "2",
+                        "6's": "0",
+                        "StrikeRate": "225.00"
+                    },
+                    {
+                        "Player": "Hardik Pandya ",
+                        "Run": "3",
+                        "Ball": "5",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "60.00"
+                    },
+                    {
+                        "Player": "Krunal Pandya ",
+                        "Run": "1",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Ravichandran Ashwin",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "28",
+                        "Wicket": "0",
+                        "ECON": "7.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kagiso Rabada",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "32",
+                        "Wicket": "1",
+                        "ECON": "10.66",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Anrich Nortje",
+                        "Over": "2.4",
+                        "Maiden": "0",
+                        "Run": "25",
+                        "Wicket": "2",
+                        "ECON": "9.37",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Marcus Stoinis",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "23",
+                        "Wicket": "1",
+                        "ECON": "11.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Axar Patel",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "16",
+                        "Wicket": "0",
+                        "ECON": "4.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Praveen Dubey",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "0",
+                        "ECON": "9.66",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Delhi Capitals": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Marcus Stoinis ",
+                        "Run": "38",
+                        "Ball": "27",
+                        "4's": "5",
+                        "6's": "1",
+                        "StrikeRate": "140.74"
+                    },
+                    {
+                        "Player": "Shikhar Dhawan ",
+                        "Run": "78",
+                        "Ball": "50",
+                        "4's": "6",
+                        "6's": "2",
+                        "StrikeRate": "156.00"
+                    },
+                    {
+                        "Player": "Shreyas Iyer (c)",
+                        "Run": "21",
+                        "Ball": "20",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "105.00"
+                    },
+                    {
+                        "Player": "Shimron Hetmyer ",
+                        "Run": "42",
+                        "Ball": "22",
+                        "4's": "4",
+                        "6's": "1",
+                        "StrikeRate": "190.90"
+                    },
+                    {
+                        "Player": "Rishabh Pant †",
+                        "Run": "2",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "66.66"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Sandeep Sharma",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "1",
+                        "ECON": "7.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jason Holder",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "50",
+                        "Wicket": "1",
+                        "ECON": "12.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Shahbaz Nadeem",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "48",
+                        "Wicket": "0",
+                        "ECON": "12.00",
+                        "Wide": "0",
+                        "NoBall": "2"
+                    },
+                    {
+                        "Player": "Rashid Khan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "26",
+                        "Wicket": "1",
+                        "ECON": "6.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "T Natarajan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "32",
+                        "Wicket": "0",
+                        "ECON": "8.00",
+                        "Wide": "3",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Sunrisers Hyderabad": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Priyam Garg ",
+                        "Run": "17",
+                        "Ball": "12",
+                        "4's": "0",
+                        "6's": "2",
+                        "StrikeRate": "141.66"
+                    },
+                    {
+                        "Player": "David Warner (c)",
+                        "Run": "2",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "66.66"
+                    },
+                    {
+                        "Player": "Manish Pandey ",
+                        "Run": "21",
+                        "Ball": "14",
+                        "4's": "3",
+                        "6's": "0",
+                        "StrikeRate": "150.00"
+                    },
+                    {
+                        "Player": "Kane Williamson ",
+                        "Run": "67",
+                        "Ball": "45",
+                        "4's": "5",
+                        "6's": "4",
+                        "StrikeRate": "148.88"
+                    },
+                    {
+                        "Player": "Jason Holder ",
+                        "Run": "11",
+                        "Ball": "15",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "73.33"
+                    },
+                    {
+                        "Player": "Abdul Samad ",
+                        "Run": "33",
+                        "Ball": "16",
+                        "4's": "2",
+                        "6's": "2",
+                        "StrikeRate": "206.25"
+                    },
+                    {
+                        "Player": "Rashid Khan ",
+                        "Run": "11",
+                        "Ball": "7",
+                        "4's": "1",
+                        "6's": "1",
+                        "StrikeRate": "157.14"
+                    },
+                    {
+                        "Player": "Shreevats Goswami †",
+                        "Run": "0",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shahbaz Nadeem ",
+                        "Run": "2",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "66.66"
+                    },
+                    {
+                        "Player": "Sandeep Sharma ",
+                        "Run": "2",
+                        "Ball": "4",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "50.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Ravichandran Ashwin",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "33",
+                        "Wicket": "0",
+                        "ECON": "11.00",
+                        "Wide": "2",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kagiso Rabada",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "4",
+                        "ECON": "7.25",
+                        "Wide": "2",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Anrich Nortje",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "36",
+                        "Wicket": "0",
+                        "ECON": "9.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Marcus Stoinis",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "26",
+                        "Wicket": "3",
+                        "ECON": "8.66",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Axar Patel",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "33",
+                        "Wicket": "1",
+                        "ECON": "8.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Praveen Dubey",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "14",
+                        "Wicket": "0",
+                        "ECON": "7.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Royal Challengers Bangalore": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Virat Kohli (c)",
+                        "Run": "6",
+                        "Ball": "7",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "85.71"
+                    },
+                    {
+                        "Player": "Devdutt Padikkal ",
+                        "Run": "1",
+                        "Ball": "6",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "16.66"
+                    },
+                    {
+                        "Player": "Aaron Finch ",
+                        "Run": "32",
+                        "Ball": "30",
+                        "4's": "3",
+                        "6's": "1",
+                        "StrikeRate": "106.66"
+                    },
+                    {
+                        "Player": "AB de Villiers †",
+                        "Run": "56",
+                        "Ball": "43",
+                        "4's": "5",
+                        "6's": "0",
+                        "StrikeRate": "130.23"
+                    },
+                    {
+                        "Player": "Moeen Ali ",
+                        "Run": "0",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shivam Dube ",
+                        "Run": "8",
+                        "Ball": "13",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "61.53"
+                    },
+                    {
+                        "Player": "Washington Sundar ",
+                        "Run": "5",
+                        "Ball": "6",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "83.33"
+                    },
+                    {
+                        "Player": "Navdeep Saini ",
+                        "Run": "9",
+                        "Ball": "8",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "112.50"
+                    },
+                    {
+                        "Player": "Mohammed Siraj ",
+                        "Run": "10",
+                        "Ball": "7",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "142.85"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Sandeep Sharma",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "21",
+                        "Wicket": "0",
+                        "ECON": "5.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jason Holder",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "25",
+                        "Wicket": "3",
+                        "ECON": "6.25",
+                        "Wide": "2",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "T Natarajan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "33",
+                        "Wicket": "2",
+                        "ECON": "8.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Shahbaz Nadeem",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "1",
+                        "ECON": "7.50",
+                        "Wide": "1",
+                        "NoBall": "1"
+                    },
+                    {
+                        "Player": "Rashid Khan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "22",
+                        "Wicket": "0",
+                        "ECON": "5.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Sunrisers Hyderabad": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "David Warner (c)",
+                        "Run": "17",
+                        "Ball": "17",
+                        "4's": "3",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    },
+                    {
+                        "Player": "Shreevats Goswami †",
+                        "Run": "0",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Manish Pandey ",
+                        "Run": "24",
+                        "Ball": "21",
+                        "4's": "3",
+                        "6's": "1",
+                        "StrikeRate": "114.28"
+                    },
+                    {
+                        "Player": "Kane Williamson ",
+                        "Run": "50",
+                        "Ball": "44",
+                        "4's": "2",
+                        "6's": "2",
+                        "StrikeRate": "113.63"
+                    },
+                    {
+                        "Player": "Priyam Garg ",
+                        "Run": "7",
+                        "Ball": "14",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "50.00"
+                    },
+                    {
+                        "Player": "Jason Holder ",
+                        "Run": "24",
+                        "Ball": "20",
+                        "4's": "3",
+                        "6's": "0",
+                        "StrikeRate": "120.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Mohammed Siraj",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "28",
+                        "Wicket": "2",
+                        "ECON": "7.00",
+                        "Wide": "3",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Navdeep Saini",
+                        "Over": "3.4",
+                        "Maiden": "0",
+                        "Run": "31",
+                        "Wicket": "0",
+                        "ECON": "8.45",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Washington Sundar",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "21",
+                        "Wicket": "0",
+                        "ECON": "10.50",
+                        "Wide": "0",
+                        "NoBall": "1"
+                    },
+                    {
+                        "Player": "Adam Zampa",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "12",
+                        "Wicket": "1",
+                        "ECON": "3.00",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Yuzvendra Chahal",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "24",
+                        "Wicket": "1",
+                        "ECON": "6.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Moeen Ali",
+                        "Over": "1",
+                        "Maiden": "0",
+                        "Run": "4",
+                        "Wicket": "0",
+                        "ECON": "4.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Shivam Dube",
+                        "Over": "1",
+                        "Maiden": "0",
+                        "Run": "7",
+                        "Wicket": "0",
+                        "ECON": "7.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Mumbai Indians": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Quinton de Kock †",
+                        "Run": "40",
+                        "Ball": "25",
+                        "4's": "5",
+                        "6's": "1",
+                        "StrikeRate": "160.00"
+                    },
+                    {
+                        "Player": "Rohit Sharma (c)",
+                        "Run": "0",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Suryakumar Yadav ",
+                        "Run": "51",
+                        "Ball": "38",
+                        "4's": "6",
+                        "6's": "2",
+                        "StrikeRate": "134.21"
+                    },
+                    {
+                        "Player": "Ishan Kishan ",
+                        "Run": "55",
+                        "Ball": "30",
+                        "4's": "4",
+                        "6's": "3",
+                        "StrikeRate": "183.33"
+                    },
+                    {
+                        "Player": "Kieron Pollard ",
+                        "Run": "0",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Krunal Pandya ",
+                        "Run": "13",
+                        "Ball": "10",
+                        "4's": "0",
+                        "6's": "1",
+                        "StrikeRate": "130.00"
+                    },
+                    {
+                        "Player": "Hardik Pandya ",
+                        "Run": "37",
+                        "Ball": "14",
+                        "4's": "0",
+                        "6's": "5",
+                        "StrikeRate": "264.28"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Daniel Sams",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "44",
+                        "Wicket": "0",
+                        "ECON": "11.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Ravichandran Ashwin",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "3",
+                        "ECON": "7.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kagiso Rabada",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "42",
+                        "Wicket": "0",
+                        "ECON": "10.50",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Axar Patel",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "27",
+                        "Wicket": "0",
+                        "ECON": "9.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Anrich Nortje",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "50",
+                        "Wicket": "1",
+                        "ECON": "12.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Marcus Stoinis",
+                        "Over": "1",
+                        "Maiden": "0",
+                        "Run": "5",
+                        "Wicket": "1",
+                        "ECON": "5.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Delhi Capitals": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Prithvi Shaw ",
+                        "Run": "0",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shikhar Dhawan ",
+                        "Run": "0",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Ajinkya Rahane ",
+                        "Run": "0",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shreyas Iyer (c)",
+                        "Run": "12",
+                        "Ball": "8",
+                        "4's": "3",
+                        "6's": "0",
+                        "StrikeRate": "150.00"
+                    },
+                    {
+                        "Player": "Marcus Stoinis ",
+                        "Run": "65",
+                        "Ball": "46",
+                        "4's": "6",
+                        "6's": "3",
+                        "StrikeRate": "141.30"
+                    },
+                    {
+                        "Player": "Rishabh Pant †",
+                        "Run": "3",
+                        "Ball": "9",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "33.33"
+                    },
+                    {
+                        "Player": "Axar Patel ",
+                        "Run": "42",
+                        "Ball": "33",
+                        "4's": "2",
+                        "6's": "3",
+                        "StrikeRate": "127.27"
+                    },
+                    {
+                        "Player": "Daniel Sams ",
+                        "Run": "0",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Kagiso Rabada ",
+                        "Run": "15",
+                        "Ball": "15",
+                        "4's": "2",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    },
+                    {
+                        "Player": "Anrich Nortje ",
+                        "Run": "0",
+                        "Ball": "0",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Trent Boult",
+                        "Over": "2",
+                        "Maiden": "1",
+                        "Run": "9",
+                        "Wicket": "2",
+                        "ECON": "4.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jasprit Bumrah",
+                        "Over": "4",
+                        "Maiden": "1",
+                        "Run": "14",
+                        "Wicket": "4",
+                        "ECON": "3.50",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Krunal Pandya",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "22",
+                        "Wicket": "1",
+                        "ECON": "5.50",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Nathan Coulter-Nile",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "27",
+                        "Wicket": "0",
+                        "ECON": "6.75",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kieron Pollard",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "36",
+                        "Wicket": "1",
+                        "ECON": "9.00",
+                        "Wide": "3",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Rahul Chahar",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "35",
+                        "Wicket": "0",
+                        "ECON": "17.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Mumbai Indians": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Rohit Sharma (c)",
+                        "Run": "4",
+                        "Ball": "7",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "57.14"
+                    },
+                    {
+                        "Player": "Quinton de Kock †",
+                        "Run": "25",
+                        "Ball": "13",
+                        "4's": "2",
+                        "6's": "2",
+                        "StrikeRate": "192.30"
+                    },
+                    {
+                        "Player": "Suryakumar Yadav ",
+                        "Run": "36",
+                        "Ball": "29",
+                        "4's": "5",
+                        "6's": "0",
+                        "StrikeRate": "124.13"
+                    },
+                    {
+                        "Player": "Ishan Kishan ",
+                        "Run": "33",
+                        "Ball": "30",
+                        "4's": "1",
+                        "6's": "2",
+                        "StrikeRate": "110.00"
+                    },
+                    {
+                        "Player": "Krunal Pandya ",
+                        "Run": "0",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Saurabh Tiwary ",
+                        "Run": "1",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "33.33"
+                    },
+                    {
+                        "Player": "Kieron Pollard ",
+                        "Run": "41",
+                        "Ball": "25",
+                        "4's": "2",
+                        "6's": "4",
+                        "StrikeRate": "164.00"
+                    },
+                    {
+                        "Player": "Nathan Coulter-Nile ",
+                        "Run": "1",
+                        "Ball": "3",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "33.33"
+                    },
+                    {
+                        "Player": "James Pattinson ",
+                        "Run": "4",
+                        "Ball": "5",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "80.00"
+                    },
+                    {
+                        "Player": "Dhawal Kulkarni ",
+                        "Run": "3",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "150.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Sandeep Sharma",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "34",
+                        "Wicket": "3",
+                        "ECON": "8.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Jason Holder",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "25",
+                        "Wicket": "2",
+                        "ECON": "6.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Shahbaz Nadeem",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "19",
+                        "Wicket": "2",
+                        "ECON": "4.75",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "T Natarajan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "38",
+                        "Wicket": "0",
+                        "ECON": "9.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Rashid Khan",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "32",
+                        "Wicket": "1",
+                        "ECON": "8.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Sunrisers Hyderabad": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "David Warner (c)",
+                        "Run": "85",
+                        "Ball": "58",
+                        "4's": "10",
+                        "6's": "1",
+                        "StrikeRate": "146.55"
+                    },
+                    {
+                        "Player": "Wriddhiman Saha †",
+                        "Run": "58",
+                        "Ball": "45",
+                        "4's": "7",
+                        "6's": "1",
+                        "StrikeRate": "128.88"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Dhawal Kulkarni",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "22",
+                        "Wicket": "0",
+                        "ECON": "7.33",
+                        "Wide": "2",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Nathan Coulter-Nile",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "27",
+                        "Wicket": "0",
+                        "ECON": "6.75",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "James Pattinson",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "0",
+                        "ECON": "9.66",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Rahul Chahar",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "36",
+                        "Wicket": "0",
+                        "ECON": "9.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Krunal Pandya",
+                        "Over": "3.1",
+                        "Maiden": "0",
+                        "Run": "37",
+                        "Wicket": "0",
+                        "ECON": "11.68",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Royal Challengers Bangalore": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Josh Philippe ",
+                        "Run": "12",
+                        "Ball": "17",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "70.58"
+                    },
+                    {
+                        "Player": "Devdutt Padikkal ",
+                        "Run": "50",
+                        "Ball": "41",
+                        "4's": "5",
+                        "6's": "0",
+                        "StrikeRate": "121.95"
+                    },
+                    {
+                        "Player": "Virat Kohli (c)",
+                        "Run": "29",
+                        "Ball": "24",
+                        "4's": "2",
+                        "6's": "1",
+                        "StrikeRate": "120.83"
+                    },
+                    {
+                        "Player": "AB de Villiers †",
+                        "Run": "35",
+                        "Ball": "21",
+                        "4's": "1",
+                        "6's": "2",
+                        "StrikeRate": "166.66"
+                    },
+                    {
+                        "Player": "Chris Morris ",
+                        "Run": "0",
+                        "Ball": "2",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Shivam Dube ",
+                        "Run": "17",
+                        "Ball": "11",
+                        "4's": "2",
+                        "6's": "1",
+                        "StrikeRate": "154.54"
+                    },
+                    {
+                        "Player": "Washington Sundar ",
+                        "Run": "0",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "0.00"
+                    },
+                    {
+                        "Player": "Isuru Udana ",
+                        "Run": "4",
+                        "Ball": "2",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "200.00"
+                    },
+                    {
+                        "Player": "Shahbaz Ahmed ",
+                        "Run": "1",
+                        "Ball": "1",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "100.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Daniel Sams",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "40",
+                        "Wicket": "0",
+                        "ECON": "10.00",
+                        "Wide": "3",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Ravichandran Ashwin",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "18",
+                        "Wicket": "1",
+                        "ECON": "4.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Anrich Nortje",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "33",
+                        "Wicket": "3",
+                        "ECON": "8.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Kagiso Rabada",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "2",
+                        "ECON": "7.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Axar Patel",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "30",
+                        "Wicket": "0",
+                        "ECON": "7.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        },
+        "Delhi Capitals": {
+            "Batting": {
+                "Players": [
+                    {
+                        "Player": "Prithvi Shaw ",
+                        "Run": "9",
+                        "Ball": "6",
+                        "4's": "2",
+                        "6's": "0",
+                        "StrikeRate": "150.00"
+                    },
+                    {
+                        "Player": "Shikhar Dhawan ",
+                        "Run": "54",
+                        "Ball": "41",
+                        "4's": "6",
+                        "6's": "0",
+                        "StrikeRate": "131.70"
+                    },
+                    {
+                        "Player": "Ajinkya Rahane ",
+                        "Run": "60",
+                        "Ball": "46",
+                        "4's": "5",
+                        "6's": "1",
+                        "StrikeRate": "130.43"
+                    },
+                    {
+                        "Player": "Shreyas Iyer (c)",
+                        "Run": "7",
+                        "Ball": "9",
+                        "4's": "0",
+                        "6's": "0",
+                        "StrikeRate": "77.77"
+                    },
+                    {
+                        "Player": "Rishabh Pant †",
+                        "Run": "8",
+                        "Ball": "7",
+                        "4's": "1",
+                        "6's": "0",
+                        "StrikeRate": "114.28"
+                    },
+                    {
+                        "Player": "Marcus Stoinis ",
+                        "Run": "10",
+                        "Ball": "5",
+                        "4's": "0",
+                        "6's": "1",
+                        "StrikeRate": "200.00"
+                    }
+                ]
+            },
+            "Bowling": {
+                "Players": [
+                    {
+                        "Player": "Chris Morris",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "19",
+                        "Wicket": "0",
+                        "ECON": "9.50",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Mohammed Siraj",
+                        "Over": "3",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "1",
+                        "ECON": "9.66",
+                        "Wide": "2",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Washington Sundar",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "24",
+                        "Wicket": "1",
+                        "ECON": "6.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Isuru Udana",
+                        "Over": "2",
+                        "Maiden": "0",
+                        "Run": "24",
+                        "Wicket": "0",
+                        "ECON": "12.00",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Yuzvendra Chahal",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "29",
+                        "Wicket": "0",
+                        "ECON": "7.25",
+                        "Wide": "0",
+                        "NoBall": "0"
+                    },
+                    {
+                        "Player": "Shahbaz Ahmed",
+                        "Over": "4",
+                        "Maiden": "0",
+                        "Run": "26",
+                        "Wicket": "2",
+                        "ECON": "6.50",
+                        "Wide": "1",
+                        "NoBall": "0"
+                    }
+                ]
+            }
+        }
+    }
+]
